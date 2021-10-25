@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-07 15:22-0400\n"
+"PO-Revision-Date: 2019-01-07 15:34-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:12
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:13
+msgid "K-Gallery"
+msgstr "K-Videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:14
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:15
+msgid "Add New Gallery"
+msgstr "Adicionar nuevo video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:16
+msgid "Edit Gallery"
+msgstr "Editar video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:17
+msgid "New Gallery"
+msgstr "Nuevo video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:18
+msgid "View Gallery"
+msgstr "Ver video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:19
+msgid "All Gallery"
+msgstr "Todos los videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:20
+msgid "Search Gallery"
+msgstr "Buscar video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:21
+msgid "No Gallery found"
+msgstr "No se encontraron videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:22
+msgid "No Gallery found in Trash"
+msgstr "No se encontraron videos en la papelera"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:27
+msgid "Description."
+msgstr "Descripción."
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-cat-list.php:12
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-cat.php:7
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-cat.php:19
+msgid "All"
+msgstr "Todos los videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-cat.php:6
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-cat.php:18
+msgid "Sort Gallery"
+msgstr "Ordenar videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-grid.php:38
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/shortcodes/gallery-grid2.php:37
+msgid "+"
+msgstr ""
+
+#. Name of the plugin
+msgid "K Gallery"
+msgstr "K Videos"
+
+#. Description of the plugin
+msgid "This is plugin for setting up Gallery on Lunartheme's item"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://lunartheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "LunarTheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http:/lunartheme.com"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:45
+msgid "K-Gallery Categories"
+msgstr "Categorías de video"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:46
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:55
+msgid "K-Gallery Category"
+msgstr "Categoría de videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:47
+msgid "Search K-Gallery Categories"
+msgstr "Buscar categorías"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:48
+msgid "All K-Gallery Categories"
+msgstr "Todas las categorías de videos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:49
+msgid "Parent K-Gallery Category"
+msgstr "Categoría de video padre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:50
+msgid "Parent K-Gallery Category:"
+msgstr "Categoría de video padre:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:51
+msgid "Edit K-Gallery Category"
+msgstr "Editar categoría"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:52
+msgid "Update K-Gallery Category"
+msgstr "Actualizar categoría"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:53
+msgid "Add New K-Gallery Category"
+msgstr "Adicionar nueva categoría"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-gallery/inc/gallery-post-type.php:54
+msgid "New K-Gallery Category Name"
+msgstr "Nuevo nombre de categoría"

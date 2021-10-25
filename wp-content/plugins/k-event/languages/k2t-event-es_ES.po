@@ -1,0 +1,743 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-27 08:23+0000\n"
+"PO-Revision-Date: 2019-02-21 22:16-0400\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:10
+msgid "Event Layout"
+msgstr "Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:21
+msgid "Event layout"
+msgstr "Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:29
+msgid "Default"
+msgstr "Por defecto"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:30
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:31
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:32
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:45
+msgid "Custom sidebar name"
+msgstr "Custom sidebar name"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:62
+msgid "Event Information"
+msgstr "Información del Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:79
+msgid "Start Date"
+msgstr "Fecha de Inicio"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:100
+msgid "End Date"
+msgstr "Fecha de Finalización"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:122
+msgid "Formatting Date and Time"
+msgstr "Formato de Fecha y Hora"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:134
+msgid "F d, Y"
+msgstr "F d, Y"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:135
+msgid "d F, Y"
+msgstr "d F, Y"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:136
+msgid "m/d/Y"
+msgstr "m/d/Y"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:137
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:138
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:154
+msgid "Show/Hide Number Of Tickets?"
+msgstr "Mostrar/Ocultar número de tickets?"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:166
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:194
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:219
+msgid "show"
+msgstr "Mostrar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:167
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:195
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:220
+msgid "hide"
+msgstr "ocultar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:182
+msgid "Show/Hide Countdown"
+msgstr "Mostrar/Ocultar  Contador"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:207
+msgid "Show/Hide Button Join"
+msgstr "Mostrar/Ocultar Botón"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:235
+msgid "Event ID"
+msgstr "ID de Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:256
+msgid "Color"
+msgstr "Color"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:271
+msgid "Product"
+msgstr "Producto"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:274
+msgid "Select a WooCommerce product to sell this event "
+msgstr "Select a WooCommerce product to sell this event "
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:294
+msgid "Who is speakers?"
+msgstr "Los expositores?"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:306
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:322
+msgid "Teacher"
+msgstr "Profesor"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:307
+msgid "Out School"
+msgstr "Out School"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:353
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:158
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:183
+msgid "Speakers"
+msgstr "Expositores"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:375
+msgid "Add Row"
+msgstr "Adicionar Fila"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:379
+msgid "Avatar"
+msgstr "Avatar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:403
+msgid "Name"
+msgstr "Nombre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:424
+msgid "Role"
+msgstr "Rol"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:447
+msgid "Subscribe URL"
+msgstr "URL de suscripción"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:450
+msgid "Link to a subscribe form. Only work if no product is set. "
+msgstr "Link to a subscribe form. Only work if no product is set. "
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:468
+msgid "Subscribe Button Text"
+msgstr "Texto del botón de suscripción"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:471
+msgid "Text that appears on the subscribe button."
+msgstr "Text that appears on the subscribe button."
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:489
+msgid "Event location"
+msgstr "Lugar del Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:506
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:231
+msgid "Address"
+msgstr "Dirección"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:509
+msgid "Location Address of event "
+msgstr "Location Address of event "
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:527
+msgid "Phone"
+msgstr "Teléfono"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:530
+msgid "Contact Number of event "
+msgstr "Contact Number of event "
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:548
+msgid "Website"
+msgstr "Website"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:551
+msgid "Website URL of event"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:569
+msgid "Email"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:572
+msgid "Email Contact of event"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:590
+msgid "Event Titlebar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:601
+msgid "Show/Hide Title Bar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:624
+msgid "Show/Hide Date"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:636
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:662
+msgid "Yes"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:637
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:663
+msgid "No"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:650
+msgid "Show/Hide Author"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:676
+msgid "Event titlebar font size"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:701
+msgid "Event title bar color"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:720
+msgid "Padding top"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:724
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:749
+msgid "Unit: px (Ex: 10px)"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:745
+msgid "Padding bottom"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:770
+msgid "Background color"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:789
+msgid "Background image"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:810
+msgid "Background position"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:826
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:897
+msgid "None"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:827
+msgid "Left Top"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:828
+msgid "Left Center"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:829
+msgid "Left Bottom"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:830
+msgid "Right Top"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:831
+msgid "Right Center"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:832
+msgid "Right Bottom"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:833
+msgid "Center top"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:834
+msgid "Center Center"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:835
+msgid "Center Bottom"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:848
+msgid "Background size"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:881
+msgid "Background repeat"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:898
+msgid "No Repeat"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:899
+msgid "Repeat"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:900
+msgid "Repeat X"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:901
+msgid "Repeat Y"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:914
+msgid "Background parallax"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:944
+msgid "Titlebar overlay opacity"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:948
+msgid "Set your overlay opacity in titlebar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:983
+msgid "Titlebar clipmask opacity"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:987
+msgid "Set your clipmask opacity in titlebar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/acf-content.php:1022
+msgid "Custom titlebar content"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:14
+msgid "January"
+msgstr "Enero"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:15
+msgid "February"
+msgstr "Febrero"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:16
+msgid "March"
+msgstr "Marzo"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:17
+msgid "April"
+msgstr "Abril"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:18
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:31
+msgid "May"
+msgstr "Mayo"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:19
+msgid "June"
+msgstr "Junio"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:20
+msgid "July"
+msgstr "Julio"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:21
+msgid "August"
+msgstr "Agosto"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:22
+msgid "September"
+msgstr "Septiembre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:23
+msgid "October"
+msgstr "Octubre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:24
+msgid "November"
+msgstr "Noviembre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:25
+msgid "December"
+msgstr "Diciembre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:27
+msgid "Jan"
+msgstr "Ene"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:28
+msgid "Feb"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:29
+msgid "Mar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:30
+msgid "Apr"
+msgstr "Abr"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:32
+msgid "Jun"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:33
+msgid "Jul"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:34
+msgid "Aug"
+msgstr "Ago"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:35
+msgid "Sep"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:36
+msgid "Oct"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:37
+msgid "Nov"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:38
+msgid "Dec"
+msgstr "Dic"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:40
+msgid "Sun"
+msgstr "Dom"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:41
+msgid "Mon"
+msgstr "Lun"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:42
+msgid "Tue"
+msgstr "Mar"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:43
+msgid "Wed"
+msgstr "Mie"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:44
+msgid "Thu"
+msgstr "Jue"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:45
+msgid "Fri"
+msgstr "Vie"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:46
+msgid "Sat"
+msgstr "Sab"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:48
+msgid "BUY TICKET "
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:49
+msgid "Start: "
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:50
+msgid "End: "
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:51
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:46
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:53
+msgid "Location: "
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:164
+msgid "Join"
+msgstr "Ver más"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:224
+msgid "Sort Event"
+msgstr "Ordenar Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:225
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/class.k_event.php:232
+msgid "All"
+msgstr "Todos los eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:6
+msgid "k-event"
+msgstr "Eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:8
+msgid "k-event-category"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:9
+msgid "k-event-tag"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:12
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:13
+msgid "K-Event"
+msgstr "Eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:14
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:15
+msgid "Add New Event"
+msgstr "Adicionar nuevo evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:16
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:17
+msgid "New Event"
+msgstr "Nuevo Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:18
+msgid "View Event"
+msgstr "Ver Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:19
+msgid "All Events"
+msgstr "Todos los Eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:20
+msgid "Search Event"
+msgstr "Buscar Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:21
+msgid "No Event found"
+msgstr "Evento no encontrado"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:22
+msgid "No Event found in Trash"
+msgstr "Evento no encontrado en la papelera"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:27
+msgid "Description."
+msgstr "Descripción"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:47
+msgid "Event Categories"
+msgstr "Categoría de Eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:48
+msgid "K-Event Category"
+msgstr "Categoría de Eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:49
+msgid "Search K-Event Categories"
+msgstr "Buscar categoría de eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:50
+msgid "All K-Event Categories"
+msgstr "Todas las categorías de eventos"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:51
+msgid "Parent K-Event Category"
+msgstr "Categoría de evento padre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:52
+msgid "Parent K-Event Category:"
+msgstr "Categoría de evento padre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:53
+msgid "Edit K-Event Category"
+msgstr "Editar categoría de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:54
+msgid "Update K-Event Category"
+msgstr "Actualizar categoría de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:55
+msgid "Add New K-Event Category"
+msgstr "Adicionar categoría de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:56
+msgid "New K-Event Category Name"
+msgstr "Nuevo nombre de categoría de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:57
+msgid "K-Event Categories"
+msgstr "Categorías de Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:70
+msgid "Search K-Event Tags"
+msgstr "Buscar etiqueta de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:71
+msgid "All K-Event Tags"
+msgstr "Todas las etiquetas de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:72
+msgid "Parent K-Event Tag"
+msgstr "Etiqueta de evento padre"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:73
+msgid "Parent K-Event Tag:"
+msgstr "Etiqueta de evento padre:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:74
+msgid "Edit K-Event Tag"
+msgstr "Editar etiqueta de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:75
+msgid "Update K-Event Tag"
+msgstr "Actualizar etiqueta de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:76
+msgid "Add New K-Event Tag"
+msgstr "Adicionar etiqueta de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:77
+msgid "New K-Event Tag Name"
+msgstr "Nuevo nombre de etiqueta de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/registrations.php:78
+msgid "K-Event Tags"
+msgstr "Etiquetas de evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:101
+msgid "Price"
+msgstr "Precio"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:113
+msgid "Number of Tickets:"
+msgstr "Número de Tickets"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:125
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:127
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:264
+msgid "Launch Event"
+msgstr "Lanzar Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:211
+msgid "Time"
+msgstr "Fecha"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:214
+msgid "Start:"
+msgstr "Inicio:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:220
+msgid "End:"
+msgstr "Finalización:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:242
+msgid "Description"
+msgstr "Descripción"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:255
+msgid "Google Calendar"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/event-single.php:257
+msgid "Ical Export"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/navigation.php:32
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>Previous"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/navigation.php:35
+msgid "Next<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/navigation.php:48
+msgid "<i class=\"zmdi zmdi-long-arrow-left\"></i>"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/templates/navigation.php:49
+msgid "<i class=\"zmdi zmdi-long-arrow-right\"></i>"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:19
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:27
+msgid "Course"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:21
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:29
+msgid "Event"
+msgstr "Evento"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:45
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:52
+msgid "Time: "
+msgstr "Fecha:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:47
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/monthview/events-list.php:54
+msgid "BUY TICKET"
+msgstr ""
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/shortcodes/recent-event.php:107
+msgid "Start Date: "
+msgstr "Fecha de Inicio:"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/shortcodes/recent-event.php:111
+msgid "End Date: "
+msgstr "Fecha de Finalización"
+
+#: /Users/apple/Desktop/GIT/edu/plugins/k-event/inc/shortcodes/recent-event.php:127
+msgid "Detail"
+msgstr "Detalle"
+
+#. Name of the plugin
+msgid "K Events"
+msgstr "Eventos"
+
+#. Description of the plugin
+msgid "Event post type with Single, Listing and Shortcodes for Eduction theme"
+msgstr "."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://lunartheme.com"
+msgstr "."
+
+#. Author of the plugin
+msgid "LunarTheme"
+msgstr "."

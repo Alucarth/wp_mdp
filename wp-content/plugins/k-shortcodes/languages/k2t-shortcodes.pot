@@ -1,0 +1,276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-27 10:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:16
+msgid "Facebook"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:17
+msgid "Twitter"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:18
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/member.php:90
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/member.php:91
+msgid "Google+"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:19
+msgid "LinkedIn"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:20
+msgid "Tumblr"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:21
+msgid "Pinterest"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:22
+msgid "YouTube"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:23
+msgid "Skype"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:24
+msgid "Instagram"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:25
+msgid "Delicious"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:26
+msgid "Reddit"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:27
+msgid "StumbleUpon"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:28
+msgid "Wordpress"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:29
+msgid "Joomla"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:30
+msgid "Blogger"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:31
+msgid "Vimeo"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:32
+msgid "Yahoo!"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:33
+msgid "Flickr"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:34
+msgid "Picasa"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:35
+msgid "DeviantArt"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:36
+msgid "GitHub"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:37
+msgid "StackOverFlow"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:38
+msgid "Xing"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:39
+msgid "Flattr"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:40
+msgid "Foursquare"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:41
+msgid "Paypal"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:42
+msgid "Yelp"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:43
+msgid "SoundCloud"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:44
+msgid "Last.fm"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:45
+msgid "Lanyrd"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:46
+msgid "Dribbble"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:47
+msgid "Forrst"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:48
+msgid "Steam"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:49
+msgid "Behance"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:50
+msgid "Mixi"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:51
+msgid "Weibo"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:52
+msgid "Renren"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:53
+msgid "Evernote"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:54
+msgid "Dropbox"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:55
+msgid "Bitbucket"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:56
+msgid "Trello"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:57
+msgid "VKontakte"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:58
+msgid "Homepage"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:59
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/member.php:89
+msgid "Email"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/functions.php:60
+msgid "RSS"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/blog_post.php:112
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/blog_post.php:126
+msgid "Read more"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/k2t_grid_slider.php:60
+msgid "Current"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/k2t_grid_slider.php:62
+msgid "Slide"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:13
+msgid "Register"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:132
+msgid "Required form field is missing"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:135
+msgid "Username too short. At least 4 characters is required"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:138
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:140
+msgid "Sorry, the username you entered is not valid"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:143
+msgid "Password length must be greater than 5"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:146
+msgid "Email is not valid"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:149
+msgid "Email Already in use"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:153
+msgid "Website is not a valid URL"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/register.php:161
+msgid "ERROR"
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/testimonial.php:50
+msgid " - "
+msgstr ""
+
+#: Users/apple/Desktop/GIT/edu/plugins/k-shortcodes/shortcodes/toggle.php:14
+msgid "Toggle Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "K Shortcodes"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is the plugin for setting up shortcodes for Lincoln theme"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://lunartheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "LunarTheme"
+msgstr ""

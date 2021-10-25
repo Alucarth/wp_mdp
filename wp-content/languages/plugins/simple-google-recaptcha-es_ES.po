@@ -1,0 +1,70 @@
+# Translation of Plugins - Simple Google reCAPTCHA - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Simple Google reCAPTCHA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-15 11:09:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Simple Google reCAPTCHA - Stable (latest release)\n"
+
+#: simple-google-recaptcha.php:31
+msgid "Simple Google reCAPTCHA Options"
+msgstr "Opciones de Simple Google reCAPTCHA"
+
+#. Description of the plugin/theme
+msgid "Simply protect your WordPress against spam comments and brute-force attacks, thanks to Google reCAPTCHA!"
+msgstr "¡Simplemente protege tu WordPress contra spam en los comentarios y ataques de fuerza bruta, gracias a Google reCAPTCHA!"
+
+#: simple-google-recaptcha.php:122
+msgid "Do you have JavaScript enabled?"
+msgstr "¿Tienes JavaScript habilitado?"
+
+#: simple-google-recaptcha.php:117 simple-google-recaptcha.php:119
+#: simple-google-recaptcha.php:122
+msgid "Google reCAPTCHA verification failed."
+msgstr "La verificación de Google reCAPTCHA falló."
+
+#: simple-google-recaptcha.php:117 simple-google-recaptcha.php:119
+#: simple-google-recaptcha.php:122
+msgid "ERROR:"
+msgstr "ERROR:"
+
+#: simple-google-recaptcha.php:68
+msgid "Disable reCAPTCHA for login"
+msgstr "Desactivar reCAPTCHA de la página de acceso"
+
+#: simple-google-recaptcha.php:64
+msgid "What first?"
+msgstr "¿Qué és lo primero?"
+
+#: simple-google-recaptcha.php:18
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Author URI of the plugin/theme
+msgid "https://www.novami.cz"
+msgstr "https://www.novami.cz"
+
+#. Author of the plugin/theme
+msgid "Michal Nov&aacute;k"
+msgstr "Michal Nov&aacute;k"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Google reCAPTCHA"
+msgstr "Simple Google reCAPTCHA"
+
+#: simple-google-recaptcha.php:46
+msgid "You have to <a href=\"https://www.google.com/recaptcha/admin\" rel=\"external\">register your domain</a> first, get required keys (reCAPTCHA V2) from Google and save them bellow."
+msgstr "<p>Tienes que <a href=\"https://www.google.com/recaptcha/admin\" rel=\"external\">registrar tu dominio</a> primero y obtener las claves requeridas de Google.</p>"
+
+#: simple-google-recaptcha.php:67
+msgid "Secret Key"
+msgstr "Clave Secreta"
+
+#: simple-google-recaptcha.php:66
+msgid "Site Key"
+msgstr "Clave del Sitio"
